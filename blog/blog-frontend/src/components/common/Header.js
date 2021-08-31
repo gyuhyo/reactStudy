@@ -55,6 +55,7 @@ const Header = ({ user, onLogout }) => {
           )}
         </Wrapper>
       </HeaderBlock>
+      <Spacer />
     </>
   );
 };
